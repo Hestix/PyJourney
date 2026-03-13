@@ -22,7 +22,7 @@ print(f"First digit: {var1}")
 var2 = float(input("Enter second digit: "))
 print(f"Second digit: {var2}")
 
-sum = var1 + var2
-float(sum)
+float(sum = var1 + var2)
+
 print(f"Sum: {sum}")
 
